@@ -1,0 +1,40 @@
+## Lab 01
+
+- Name: Mckyle Selogic
+- Email: Selogic.5@wright.edu
+
+## Part 1 Answers
+
+1.mkdir DirA
+2.mkdir Dir B
+3.Dir B$ ls
+4.DirA B/C 
+5.mv /home/mselogic/"Dir B" /home/mselogic/DirB
+
+## Part 2 Answers
+
+1.vim text.txt
+2. File contents:
+
+```
+I
+Love
+Shapiy
+
+```
+## Part 3 Answers
+
+1. sudo cp text.txt /DirA
+2. mv test.txt .hiddentext.txt
+
+## Part 4 Answers
+
+1. SSH command to sign in to your AWS instance:
+
+```
+**write command here so it will look fancy on GitHub**
+```
+
+## Part 5 Answers
+
+1. (https://github.com/Mselogic/Mselogic/blob/main/README.md)
